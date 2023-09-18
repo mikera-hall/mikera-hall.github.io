@@ -17,3 +17,15 @@
       </p>
     </section>
 </section>
+
+<!-- Affinity Diagram assignment -->
+<section class="assign">
+  <img src=
+  <section class="assign-det">
+    <a href="files
+    <p>
+      [Insert description for your affinity diagram here]
+        </p>
+      </section>
+      <
+      
