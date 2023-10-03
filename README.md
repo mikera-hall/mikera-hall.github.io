@@ -20,11 +20,11 @@
 
 <!-- Affinity Diagram assignment -->
 <section class="assign">
-  <img src=
+  <img src="images/Screenshot%202023-10-02%20at%2010.46.38%20PM.png"/>
   <section class="assign-det">
     <a href="files
     <p>
-      [Insert description for your affinity diagram here]
+      [ outline and detailed ideas of how to improve your college experience]
         </p>
       </section>
       <
