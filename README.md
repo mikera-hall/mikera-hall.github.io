@@ -13,7 +13,7 @@
     <section class="assign-det">
       <h2>Problem statement: [College Tuition]</h2>
       <p>
-        College tuition is already very expensive and on top of that, the students have to pay for textbooks, access to homework, etc. This is a payment that should be covered in the students tuition especially because college tuition is only increasing with the inflation going on. It causes unnecessary expenses that students have to pay for out of pocket.
+        Adjusting to college is a hard task for most students. Coming straight out of high school to being alone, finding a job, and being independent. Students need to find ways to help get adjusted to that.
       </p>
     </section>
 </section>
