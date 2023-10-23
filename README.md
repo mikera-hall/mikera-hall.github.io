@@ -27,5 +27,16 @@
       [ outline and detailed ideas of how to improve your college experience]
         </p>
       </section>
-      <
+    </section>
+
+  <!-- Personas assignment -->
+  <section class="assign">
+      <img src="images/my-persona.jpg" />
+      <section class"assign-det">
+        <a href="files/all-personas.pdf"><h2>Team Perosnas:[title]</h2></a>
+      <p>
+        [insert text describing your individual persona (name and quote from the template)]
+      </p>
+    </section>
+  </section>
       
