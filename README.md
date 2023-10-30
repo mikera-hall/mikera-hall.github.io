@@ -35,7 +35,8 @@
       <section class"assign-det">
         <a href="files/combinepdf.pdf"><h2>Team Perosnas:[title]</h2></a>
       <p>
-        [The name of my persona is Lori Sawyer and the quote is "Its a evil world we live in, but im going to keep living and loving life" ]
+        [Lori Sawyer
+        "Its a evil world we live in, but im going to keep living and loving life" ]
       </p>
     </section>
   </section>
