@@ -2,7 +2,6 @@
 <html>
   <head>
     <title>CSCE 190:mikera-hall</title>
-    <link rel = "stylesheet" href="styles.css"
   </head>
   <body>
     <h1>mikera-hall</h1>
