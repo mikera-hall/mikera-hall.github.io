@@ -31,11 +31,11 @@
 
   <!-- Personas assignment -->
   <section class="assign">
-      <img src="images/my-persona.jpg" />
+      <img src="images/Screenshot 2023-10-30 at 11.14.49 AM.jpeg" />
       <section class"assign-det">
         <a href="files/all-personas.pdf"><h2>Team Perosnas:[title]</h2></a>
       <p>
-        [insert text describing your individual persona (name and quote from the template)]
+        [The name of my persona is Lori Sawyer and the quote is "Its a evil world we live in, but im going to keep living and loving life" ]
       </p>
     </section>
   </section>
