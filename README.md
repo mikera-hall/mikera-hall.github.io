@@ -31,7 +31,7 @@
 
   <!-- Personas assignment -->
   <section class="assign">
-      <img src="images/Screenshot 2023-10-30 at 11.14.49 AM.jpeg" />
+      <img src="images/Persona.jpg" />
       <section class"assign-det">
         <a href="files/all-personas.pdf"><h2>Team Perosnas:[title]</h2></a>
       <p>
