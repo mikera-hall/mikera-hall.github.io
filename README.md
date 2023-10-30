@@ -17,7 +17,6 @@
       </section>
 <!-- Affinity Diagram assignment -->
 <section class = "assign">
-    <!-- insert img -->
 <section class="assign-det">
   <a href="images/Screenshot%202023-10-02%20at%2010.46.38%20PM.png"><h2>Affinity diagram: [Adjusting to College]</h2>
     <p>
