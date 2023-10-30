@@ -29,7 +29,7 @@
 <section class="assign">
 <img src="images/Persona.jpg" />
 <section class="assign-det">
-<a href="files/combinepdf.pdf"><h2>Team Personas: [title]</h2></a>
+<a href="images/combinepdf.pdf"><h2>Team Personas: [title]</h2></a>
 <p>
 [Lori Sawyer "Its a evil world we live in, but im going to keep living and loving life"]
 </p>
