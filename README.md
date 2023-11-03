@@ -40,7 +40,7 @@
 
 <!-- Storyboard assignment -->
 <section class="assign">
-  <img src="images/combinepdf(2).pdf"/>
+  <img src="images/combinepdf.pdf"/>
   <section class="assign-det">
     <a href="files/all-storyboards.pdf"><h2>Team Storyboards: [title]</h2></a>
     <p>
