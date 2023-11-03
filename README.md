@@ -44,7 +44,7 @@
   <section class="assign-det">
     <a href="files/all-storyboards.pdf"><h2>Team Storyboards: [title]</h2></a>
     <p>
-      [Insert text describing your individual storyboard (the scenario you chose)]
+      [My scenario is my persona is a busy person and is trying to make time to be social during her college experience)]
     </section>
 </section>
     
