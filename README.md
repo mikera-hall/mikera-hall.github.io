@@ -37,3 +37,14 @@
 
 </body>
 </html>
+
+<!-- Storyboard assignment -->
+<section class="assign">
+  <img src="images/my-storyboard.jpg"/>
+  <section class="assign-det">
+    <a href="files/all-storyboards.pdf"><h2>Team Storyboards: [title]</h2></a>
+    <p>
+      [Insert text describing your individual storyboard (the scenario you chose)]
+    </section>
+</section>
+    
