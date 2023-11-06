@@ -8,9 +8,9 @@
     <section class="assign">
       <img src="images/Screenshot 1.png" />
       <section class="assign-det">
-        <h2>Problem statement: [Adjusting to College]</h2>
+        <h2>Problem statement: Adjusting to College</h2>
         <p>
-          [Adjusting to college is a hard task for most students. Coming straight out of high school to being alone, finding a job, and being independent. Students need to find ways to help get adjusted to that.. ]
+          Adjusting to college is a hard task for most students. Coming straight out of high school to being alone, finding a job, and being independent. Students need to find ways to help get adjusted to that.. 
           </p>
   </section>
 </section>
@@ -18,27 +18,23 @@
 <section class = "assign">
   <img src="images/Screenshot%202023-10-02%20at%2010.46.38%20PM.png" />
   <section class="assign-det">
-    <a href="files/
- <h2>Affinity diagram: [Adjusting to College]</h2>
+    <a href="files/Screenshot%202023-10-02%20at%2010.46.38%20PM.png"><h2>Affinity diagram: Adjusting to College</h2></a>
     <p>
-      [An outline and detailed ideas of how to improve your college experience]
+      outlined and detailed ideas of how to improve your college experience
     </p>
-</section>
+  </section>
 </section>
 
 <!-- Personas assignment -->
 <section class="assign">
-<img src="images/Persona.jpg" />
-<section class="assign-det">
-<a href="files/combinepdf.pdf"><h2>Team Personas: [title]</h2></a>
-<p>
-[Lori Sawyer "Its a evil world we live in, but im going to keep living and loving life"]
-</p>
+  <img src="images/Persona.jpg" />
+  <section class="assign-det">
+    <a href="files/combinepdf.pdf"><h2>Team Personas: [title]</h2></a>
+    <p>
+      Lori Sawyer "Its a evil world we live in, but im going to keep living and loving life"
+    </p>
+  </section>
 </section>
-</section>
-
-</body>
-</html>
 
 <!-- Storyboard assignment -->
 <section class="assign">
@@ -46,7 +42,8 @@
   <section class="assign-det">
     <a href="files/all-storyboards.pdf"><h2>Team Storyboards: [title]</h2></a>
     <p>
-      [My scenario is my persona is a busy person and is trying to make time to be social during her college experience)]
+      My scenario is my persona is a busy person and is trying to make time to be social during her college experience
+    </p>
     </section>
 </section>
     
