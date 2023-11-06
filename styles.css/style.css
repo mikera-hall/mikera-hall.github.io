@@ -2,7 +2,6 @@ body{
     background: blue
     font-family: sans-serif
 }
-
 h1 {
     color:aquamarine
     text-align: center;
@@ -13,7 +12,6 @@ h1 {
     margin: 10px;
     background: black
 }
-
 .assign img{
     width: 200px;
     padding: 10px;
