@@ -6,14 +6,14 @@
   <body>
     <h1>mikera-hall</h1>
     <section class="assign">
+    <section class="assign-det">
       <img src="images/Screenshot 1.png"
-      <section class="assign-det">
         <h2>Problem statement: [Adjusting to College]</h2>
         <p>
           [Adjusting to college is a hard task for most students. Coming straight out of high school to being alone, finding a job, and being independent. Students need to find ways to help get adjusted to that.. ]
           </p>
-        </section>
-      </section>
+</section>
+</section>
 <!-- Affinity Diagram assignment -->
 <section class = "assign">
 <section class="assign-det">
