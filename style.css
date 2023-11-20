@@ -1,6 +1,6 @@
 
 body {
-    background: #;
+    background: blue;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -8,10 +8,14 @@ body {
     h1 {
         color: pink
         text-align: center;
+        width: 100%;
+        display: block;
     }
     h1: hover {
         color: hotpink;
         text-align: center;
+        width: 100%;
+        display: block;
     }
     a {
         text-decoration: none;
@@ -19,7 +23,9 @@ body {
     }
     .assign{
         background-color: grey;
-        display: flex;
+        display: block;
+        width: 20%;
+        box-shadow: 8px 8px pink
         padding: 10px;
         margin: 10px;
         background: black;
