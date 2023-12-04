@@ -1,10 +1,10 @@
 
 body {
-    background: lightblue;
+    background: #89CFF0;
     font-family: sans-serif;
 }
 h1 {
-    color: #89CFF0;
+    color: lightblue;
     text-align: center;
 }
 .assign {
