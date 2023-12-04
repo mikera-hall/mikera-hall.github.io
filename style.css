@@ -19,7 +19,7 @@ body {
     }
     a {
         text-decoration: none;
-        color: white
+        color: black
     }
     .assign{
         background-color: grey;
@@ -28,7 +28,7 @@ body {
         box-shadow: 8px 8px pink
         padding: 10px;
         margin: 10px;
-        background: black;
+        background: white;
     }
     .assign img{
         width: 200px;
