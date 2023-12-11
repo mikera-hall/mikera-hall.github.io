@@ -1,17 +1,17 @@
 
 body {
-    background: #89CFF0;
+    background: #E6E6FA;
     font-family: sans-serif;
 }
 h1 {
-    color: #673147;
+    color: #CBC3E3;
     text-align: center;
 }
 .assign {
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: #7393B3;
+    background: #80080;
 }
 .assign img {
     width: 200px;
